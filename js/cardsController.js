@@ -11,4 +11,5 @@ function cardsController(){
     {question: "The class field trip was completely ruined by _________."},
     {question: "What's my secret power?"}
   ]
+  return self;
 }
